@@ -1,0 +1,13 @@
+function ToggleMenu(){
+  var menu = document.getElementById("menu");
+  var button = document.getElementById("menuTick");
+  
+  if(!(menu.style.display == "none")){
+    menu.style.display="none";
+    button.style.backgroundColor= "";
+    
+  }else{
+    menu.style.display="block";
+    button.style.backgroundColor= "black";
+  } 
+}
