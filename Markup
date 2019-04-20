@@ -1,0 +1,19 @@
+<HTML>
+<HEAD>
+<Linkrel="stylesheet" type="text/css" href="" >
+</HEAD>
+<BODY>
+<HEADER>
+  <H1>Welcome!</H1>
+    <span id="menuTick" onclick="ToggleMenu()"></span>
+    <NAV id="menu">
+      <ITEM>Home</ITEM>
+      <ITEM>Gallery</ITEM>
+      <ITEM>Software</ITEM>
+    </NAV>
+</HEADER>
+<DIV id="Page">
+<!--  -->
+</DIV>
+</BODY>
+</>HTML>
